@@ -28,7 +28,7 @@
 
 ### 📫 How to Reach Me:
 
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](tsimbal.artem.v@gmail.com)
+Email: tsimbal.artem.v@gmail.com
 
 ---
 
